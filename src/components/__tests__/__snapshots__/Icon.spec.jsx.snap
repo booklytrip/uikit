@@ -1,0 +1,48 @@
+exports[`Icon Snapshots renders disabled icon 1`] = `
+<i
+  className="icon settings disabled"
+  onClick={undefined}
+  style={undefined} />
+`;
+
+exports[`Icon Snapshots renders formated as a link 1`] = `
+<i
+  className="icon settings link"
+  onClick={undefined}
+  style={undefined} />
+`;
+
+exports[`Icon Snapshots renders formatted to appear bordered 1`] = `
+<i
+  className="icon settings bordered"
+  onClick={undefined}
+  style={undefined} />
+`;
+
+exports[`Icon Snapshots renders formatted to appear circular 1`] = `
+<i
+  className="icon settings circular"
+  onClick={undefined}
+  style={undefined} />
+`;
+
+exports[`Icon Snapshots renders loading spinner 1`] = `
+<i
+  className="icon spinner loading"
+  onClick={undefined}
+  style={undefined} />
+`;
+
+exports[`Icon Snapshots renders with custom size 1`] = `
+<i
+  className="icon mini settings"
+  onClick={undefined}
+  style={undefined} />
+`;
+
+exports[`Icon Snapshots renders with different color 1`] = `
+<i
+  className="icon red settings"
+  onClick={undefined}
+  style={undefined} />
+`;

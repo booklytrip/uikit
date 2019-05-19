@@ -1,0 +1,126 @@
+[
+  {
+    "id": "UIKit.Calendar.days.mon.narrow",
+    "defaultMessage": "M"
+  },
+  {
+    "id": "UIKit.Calendar.days.tue.narrow",
+    "defaultMessage": "T"
+  },
+  {
+    "id": "UIKit.Calendar.days.wed.narrow",
+    "defaultMessage": "W"
+  },
+  {
+    "id": "UIKit.Calendar.days.thu.narrow",
+    "defaultMessage": "T"
+  },
+  {
+    "id": "UIKit.Calendar.days.fri.narrow",
+    "defaultMessage": "F"
+  },
+  {
+    "id": "UIKit.Calendar.days.sat.narrow",
+    "defaultMessage": "S"
+  },
+  {
+    "id": "UIKit.Calendar.days.sun.narrow",
+    "defaultMessage": "S"
+  },
+  {
+    "id": "UIKit.Calendar.months.jan.short",
+    "defaultMessage": "Jan"
+  },
+  {
+    "id": "UIKit.Calendar.months.jan.long",
+    "defaultMessage": "January"
+  },
+  {
+    "id": "UIKit.Calendar.months.feb.short",
+    "defaultMessage": "Feb"
+  },
+  {
+    "id": "UIKit.Calendar.months.feb.long",
+    "defaultMessage": "February"
+  },
+  {
+    "id": "UIKit.Calendar.months.mar.short",
+    "defaultMessage": "Mar"
+  },
+  {
+    "id": "UIKit.Calendar.months.mar.long",
+    "defaultMessage": "March"
+  },
+  {
+    "id": "UIKit.Calendar.months.apr.short",
+    "defaultMessage": "Apr"
+  },
+  {
+    "id": "UIKit.Calendar.months.apr.long",
+    "defaultMessage": "April"
+  },
+  {
+    "id": "UIKit.Calendar.months.may.short",
+    "defaultMessage": "May"
+  },
+  {
+    "id": "UIKit.Calendar.months.may.long",
+    "defaultMessage": "May"
+  },
+  {
+    "id": "UIKit.Calendar.months.jun.short",
+    "defaultMessage": "Jun"
+  },
+  {
+    "id": "UIKit.Calendar.months.jun.long",
+    "defaultMessage": "June"
+  },
+  {
+    "id": "UIKit.Calendar.months.jul.short",
+    "defaultMessage": "Jul"
+  },
+  {
+    "id": "UIKit.Calendar.months.jul.long",
+    "defaultMessage": "July"
+  },
+  {
+    "id": "UIKit.Calendar.months.aug.short",
+    "defaultMessage": "Aug"
+  },
+  {
+    "id": "UIKit.Calendar.months.aug.long",
+    "defaultMessage": "August"
+  },
+  {
+    "id": "UIKit.Calendar.months.sep.short",
+    "defaultMessage": "Sep"
+  },
+  {
+    "id": "UIKit.Calendar.months.sep.long",
+    "defaultMessage": "September"
+  },
+  {
+    "id": "UIKit.Calendar.months.oct.short",
+    "defaultMessage": "Oct"
+  },
+  {
+    "id": "UIKit.Calendar.months.oct.long",
+    "defaultMessage": "October"
+  },
+  {
+    "id": "UIKit.Calendar.months.nov.short",
+    "defaultMessage": "Nov"
+  },
+  {
+    "id": "UIKit.Calendar.months.nov.long",
+    "defaultMessage": "November"
+  },
+  {
+    "id": "UIKit.Calendar.months.dec.short",
+    "defaultMessage": "Dec"
+  },
+  {
+    "id": "UIKit.Calendar.months.dec.long",
+    "defaultMessage": "December"
+  }
+]

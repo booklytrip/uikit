@@ -1,0 +1,44 @@
+exports[`Search Snapshots renders in loading state 1`] = `
+<div
+  className="ui search loading">
+  <div
+    className="ui icon input">
+    <input
+      className="prompt"
+      placeholder={undefined}
+      type="text" />
+    <i
+      className="search icon" />
+  </div>
+</div>
+`;
+
+exports[`Search Snapshots renders with different size 1`] = `
+<div
+  className="ui search small">
+  <div
+    className="ui icon input">
+    <input
+      className="prompt"
+      placeholder={undefined}
+      type="text" />
+    <i
+      className="search icon" />
+  </div>
+</div>
+`;
+
+exports[`Search Snapshots renders with placeholder 1`] = `
+<div
+  className="ui search">
+  <div
+    className="ui icon input">
+    <input
+      className="prompt"
+      placeholder="Placeholder"
+      type="text" />
+    <i
+      className="search icon" />
+  </div>
+</div>
+`;

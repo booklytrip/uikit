@@ -1,0 +1,69 @@
+exports[`Counter Snapshots renders with specified placeholder 1`] = `
+<div
+  className="ui action input"
+  style={undefined}>
+  <button
+    className="ui button basic"
+    onClick={[Function]}
+    style={
+      Object {
+        "borderRadius": "0.28571429rem 0px 0px 0.28571429rem",
+        "borderWidth": 0,
+      }
+    }
+    type={undefined}>
+    -
+  </button>
+  <input
+    placeholder="placeholder"
+    readOnly={true}
+    style={
+      Object {
+        "borderBottomLeftRadius": 0,
+        "borderBottomRightRadius": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "borderTopLeftRadius": 0,
+        "borderTopRightRadius": 0,
+        "textAlign": "center",
+      }
+    }
+    type="text"
+    value="" />
+</div>
+`;
+
+exports[`Counter Snapshots renders with specified value 1`] = `
+<div
+  className="ui action input"
+  style={undefined}>
+  <button
+    className="ui button basic"
+    onClick={[Function]}
+    style={
+      Object {
+        "borderRadius": "0.28571429rem 0px 0px 0.28571429rem",
+        "borderWidth": 0,
+      }
+    }
+    type={undefined}>
+    -
+  </button>
+  <input
+    placeholder={undefined}
+    readOnly={true}
+    style={
+      Object {
+        "borderBottomLeftRadius": 0,
+        "borderBottomRightRadius": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "borderTopLeftRadius": 0,
+        "borderTopRightRadius": 0,
+        "textAlign": "center",
+      }
+    }
+    type="text"
+    value={5} />
+</div>
+`;

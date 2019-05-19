@@ -1,0 +1,21 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "no-console": 0,
+    "indent": [
+      "error",
+      4,
+      { "SwitchCase": 1 }
+    ],
+    "react/jsx-indent": [
+      "error",
+      4
+    ],
+    "no-underscore-dangle": 0,
+    "comma-dangle": [
+      "warn",
+      "always-multiline"
+    ],
+    "no-mixed-operators": 0
+  }
+}

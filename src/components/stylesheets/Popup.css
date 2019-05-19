@@ -1,0 +1,10 @@
+.ui.popup.error {
+    background: #FF6961;
+    color: #FFFFFF;
+    border: none;
+    box-shadow: none;
+}
+.ui.top.popup.error:before {
+    background: #FF6961;
+    box-shadow: none !important;
+}

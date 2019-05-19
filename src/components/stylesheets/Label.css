@@ -1,0 +1,6 @@
+.ui[class*="right floated"].label {
+  float: right;
+}
+.ui[class*="left floated"].label {
+  float: left;
+}

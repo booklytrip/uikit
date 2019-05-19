@@ -1,0 +1,35 @@
+exports[`Input Snapshots renders showing that data contains error 1`] = `
+<div
+  className="ui input error">
+  <input />
+</div>
+`;
+
+exports[`Input Snapshots renders with different size 1`] = `
+<div
+  className="ui input small">
+  <input />
+</div>
+`;
+
+exports[`Input Snapshots renders with icon on left position 1`] = `
+<div
+  className="ui input left labeled">
+  <input />
+  <i
+    className="icon user"
+    onClick={undefined}
+    style={undefined} />
+</div>
+`;
+
+exports[`Input Snapshots renders with icon on right position 1`] = `
+<div
+  className="ui input right labeled">
+  <input />
+  <i
+    className="icon user"
+    onClick={undefined}
+    style={undefined} />
+</div>
+`;

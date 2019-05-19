@@ -1,0 +1,160 @@
+exports[`Menu Snapshots renders attached 1`] = `
+<div
+  className="ui menu top attached">
+  <a
+    className="item"
+    onClick={[Function]}>
+    First
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Second
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Third
+  </a>
+</div>
+`;
+
+exports[`Menu Snapshots renders pointing 1`] = `
+<div
+  className="ui menu pointing">
+  <a
+    className="item"
+    onClick={[Function]}>
+    First
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Second
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Third
+  </a>
+</div>
+`;
+
+exports[`Menu Snapshots renders secondary 1`] = `
+<div
+  className="ui menu secondary">
+  <a
+    className="item"
+    onClick={[Function]}>
+    First
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Second
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Third
+  </a>
+</div>
+`;
+
+exports[`Menu Snapshots renders tabular 1`] = `
+<div
+  className="ui menu tabular">
+  <a
+    className="item"
+    onClick={[Function]}>
+    First
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Second
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Third
+  </a>
+</div>
+`;
+
+exports[`Menu Snapshots renders vertically 1`] = `
+<div
+  className="ui menu">
+  <a
+    className="item"
+    onClick={[Function]}>
+    First
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Second
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Third
+  </a>
+</div>
+`;
+
+exports[`Menu Snapshots renders with active item 1`] = `
+<div
+  className="ui menu">
+  <a
+    className="item"
+    onClick={[Function]}>
+    First
+  </a>
+  <a
+    className="item active"
+    onClick={[Function]}>
+    Second
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Third
+  </a>
+</div>
+`;
+
+exports[`Menu Snapshots renders with items 1`] = `
+<div
+  className="ui menu">
+  <a
+    className="item"
+    onClick={[Function]}>
+    First
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Second
+  </a>
+  <a
+    className="item"
+    onClick={[Function]}>
+    Third
+  </a>
+</div>
+`;
+
+exports[`MenuItem Snapshots renders in active state 1`] = `
+<a
+  className="item active"
+  onClick={[Function]} />
+`;
+
+exports[`MenuItem Snapshots renders with label 1`] = `
+<a
+  className="item"
+  onClick={[Function]}>
+  Label
+</a>
+`;

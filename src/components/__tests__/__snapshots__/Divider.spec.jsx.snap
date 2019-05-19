@@ -1,0 +1,19 @@
+exports[`Divider Snapshots renders fitted divider 1`] = `
+<div
+  className="ui divider fitted" />
+`;
+
+exports[`Divider Snapshots renders hidden divider 1`] = `
+<div
+  className="ui divider hidden" />
+`;
+
+exports[`Divider Snapshots renders with horizontal divider 1`] = `
+<div
+  className="ui divider horizontal" />
+`;
+
+exports[`Divider Snapshots renders with vertical divider 1`] = `
+<div
+  className="ui divider vertical" />
+`;

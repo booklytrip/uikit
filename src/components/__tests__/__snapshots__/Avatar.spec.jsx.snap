@@ -1,0 +1,256 @@
+exports[`ImageAvatar Snapshots renders with different border radius 1`] = `
+<img
+  alt={undefined}
+  src={undefined}
+  style={
+    Object {
+      "borderRadius": 10,
+    }
+  } />
+`;
+
+exports[`ImageAvatar Snapshots renders with specified image 1`] = `
+<img
+  alt={undefined}
+  src="/avatars/image.png"
+  style={
+    Object {
+      "borderRadius": 0,
+    }
+  } />
+`;
+
+exports[`ImageAvatar Snapshots renders with specified name 1`] = `
+<img
+  alt="Name"
+  src={undefined}
+  style={
+    Object {
+      "borderRadius": 0,
+    }
+  } />
+`;
+
+exports[`NameAvatar Snapshots renders with different border radius 1`] = `
+<svg
+  pointerEvents="none"
+  style={
+    Object {
+      "backgroundColor": "#ba83a5",
+      "borderRadius": 2,
+    }
+  }
+  viewBox="0 0 undefined undefined">
+  <text
+    dy="0.35em"
+    fill={undefined}
+    fontFamily={undefined}
+    style={
+      Object {
+        "fontSize": undefined,
+        "fontWeight": undefined,
+      }
+    }
+    textAnchor="middle"
+    x="50%"
+    y="50%">
+    AB
+  </text>
+</svg>
+`;
+
+exports[`NameAvatar Snapshots renders with different font 1`] = `
+<svg
+  pointerEvents="none"
+  style={
+    Object {
+      "backgroundColor": "#ba83a5",
+      "borderRadius": undefined,
+    }
+  }
+  viewBox="0 0 undefined undefined">
+  <text
+    dy="0.35em"
+    fill={undefined}
+    fontFamily="Arial"
+    style={
+      Object {
+        "fontSize": undefined,
+        "fontWeight": undefined,
+      }
+    }
+    textAnchor="middle"
+    x="50%"
+    y="50%">
+    AB
+  </text>
+</svg>
+`;
+
+exports[`NameAvatar Snapshots renders with different font size 1`] = `
+<svg
+  pointerEvents="none"
+  style={
+    Object {
+      "backgroundColor": "#ba83a5",
+      "borderRadius": undefined,
+    }
+  }
+  viewBox="0 0 undefined undefined">
+  <text
+    dy="0.35em"
+    fill={undefined}
+    fontFamily={undefined}
+    style={
+      Object {
+        "fontSize": undefined,
+        "fontWeight": "12px",
+      }
+    }
+    textAnchor="middle"
+    x="50%"
+    y="50%">
+    AB
+  </text>
+</svg>
+`;
+
+exports[`NameAvatar Snapshots renders with different font weight 1`] = `
+<svg
+  pointerEvents="none"
+  style={
+    Object {
+      "backgroundColor": "#ba83a5",
+      "borderRadius": undefined,
+    }
+  }
+  viewBox="0 0 undefined undefined">
+  <text
+    dy="0.35em"
+    fill={undefined}
+    fontFamily={undefined}
+    style={
+      Object {
+        "fontSize": undefined,
+        "fontWeight": "400",
+      }
+    }
+    textAnchor="middle"
+    x="50%"
+    y="50%">
+    AB
+  </text>
+</svg>
+`;
+
+exports[`NameAvatar Snapshots renders with different height 1`] = `
+<svg
+  pointerEvents="none"
+  style={
+    Object {
+      "backgroundColor": "#ba83a5",
+      "borderRadius": undefined,
+    }
+  }
+  viewBox="0 0 undefined 300">
+  <text
+    dy="0.35em"
+    fill={undefined}
+    fontFamily={undefined}
+    style={
+      Object {
+        "fontSize": undefined,
+        "fontWeight": undefined,
+      }
+    }
+    textAnchor="middle"
+    x="50%"
+    y="50%">
+    AB
+  </text>
+</svg>
+`;
+
+exports[`NameAvatar Snapshots renders with different number of characters 1`] = `
+<svg
+  pointerEvents="none"
+  style={
+    Object {
+      "backgroundColor": "#816677",
+      "borderRadius": undefined,
+    }
+  }
+  viewBox="0 0 undefined undefined">
+  <text
+    dy="0.35em"
+    fill={undefined}
+    fontFamily={undefined}
+    style={
+      Object {
+        "fontSize": undefined,
+        "fontWeight": undefined,
+      }
+    }
+    textAnchor="middle"
+    x="50%"
+    y="50%">
+    ABC
+  </text>
+</svg>
+`;
+
+exports[`NameAvatar Snapshots renders with different text color 1`] = `
+<svg
+  pointerEvents="none"
+  style={
+    Object {
+      "backgroundColor": "#ba83a5",
+      "borderRadius": undefined,
+    }
+  }
+  viewBox="0 0 undefined undefined">
+  <text
+    dy="0.35em"
+    fill="FF0000"
+    fontFamily={undefined}
+    style={
+      Object {
+        "fontSize": undefined,
+        "fontWeight": undefined,
+      }
+    }
+    textAnchor="middle"
+    x="50%"
+    y="50%">
+    AB
+  </text>
+</svg>
+`;
+
+exports[`NameAvatar Snapshots renders with different width 1`] = `
+<svg
+  pointerEvents="none"
+  style={
+    Object {
+      "backgroundColor": "#ba83a5",
+      "borderRadius": undefined,
+    }
+  }
+  viewBox="0 0 300 undefined">
+  <text
+    dy="0.35em"
+    fill={undefined}
+    fontFamily={undefined}
+    style={
+      Object {
+        "fontSize": undefined,
+        "fontWeight": undefined,
+      }
+    }
+    textAnchor="middle"
+    x="50%"
+    y="50%">
+    AB
+  </text>
+</svg>
+`;

@@ -1,0 +1,44 @@
+exports[`Breadcrumb Snapshots renders active section 1`] = `
+<div
+  className="section active"
+  href={undefined}
+  onClick={undefined}>
+  Item 1
+</div>
+`;
+
+exports[`Breadcrumb Snapshots renders divder with an icon 1`] = `
+<i
+  className="divider right arrow icon" />
+`;
+
+exports[`Breadcrumb Snapshots renders in different size 1`] = `
+<div
+  className="ui breadcrumb large">
+  <div
+    className="section"
+    href={undefined}
+    onClick={undefined}>
+    Item 1
+  </div>
+  <div
+    className="divider">
+    /
+  </div>
+  <div
+    className="section"
+    href={undefined}
+    onClick={undefined}>
+    Item 2
+  </div>
+</div>
+`;
+
+exports[`Breadcrumb Snapshots renders section as a link 1`] = `
+<a
+  className="section"
+  href={undefined}
+  onClick={[Function]}>
+  Item 1
+</a>
+`;

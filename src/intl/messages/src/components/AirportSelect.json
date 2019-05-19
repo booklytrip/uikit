@@ -1,0 +1,14 @@
+[
+  {
+    "id": "UIKit.AirportSelect.searchPromptText",
+    "defaultMessage": "Type to search"
+  },
+  {
+    "id": "UIKit.AirportSelect.loadingPlaceholder",
+    "defaultMessage": "Loading..."
+  },
+  {
+    "id": "UIKit.AirportSelect.noResultsText",
+    "defaultMessage": "No results found"
+  }
+]

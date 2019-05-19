@@ -1,0 +1,19 @@
+exports[`Loader Snapshots renders inline 1`] = `
+<div
+  className="ui active loader medium inline"
+  style={undefined} />
+`;
+
+exports[`Loader Snapshots renders with custom size 1`] = `
+<div
+  className="ui active loader mini"
+  style={undefined} />
+`;
+
+exports[`Loader Snapshots renders with text 1`] = `
+<div
+  className="ui active loader medium text"
+  style={undefined}>
+  Loading
+</div>
+`;

@@ -1,0 +1,111 @@
+exports[`Tab Snapshots renders in active state 1`] = `
+<div
+  className="ui bottom attached tab segment active"
+  style={undefined}>
+  Tab
+</div>
+`;
+
+exports[`Tab Snapshots renders in loading state 1`] = `
+<div
+  className="ui bottom attached tab segment"
+  style={undefined}>
+  Tab
+</div>
+`;
+
+exports[`Tabs Snapshots renders formated menu with tabs 1`] = `
+<div>
+  <div
+    className="ui menu tabular top attached">
+    <a
+      className="item active"
+      onClick={[Function]} />
+    <a
+      className="item"
+      onClick={[Function]} />
+  </div>
+  <div
+    className="ui bottom attached tab segment active"
+    style={undefined}>
+    First
+  </div>
+  <div
+    className="ui bottom attached tab segment"
+    style={undefined}>
+    Second
+  </div>
+</div>
+`;
+
+exports[`Tabs Snapshots renders menu as a secondary 1`] = `
+<div>
+  <div
+    className="ui menu secondary tabular top attached">
+    <a
+      className="item active"
+      onClick={[Function]} />
+    <a
+      className="item"
+      onClick={[Function]} />
+  </div>
+  <div
+    className="ui bottom attached tab segment active"
+    style={undefined}>
+    First
+  </div>
+  <div
+    className="ui bottom attached tab segment"
+    style={undefined}>
+    Second
+  </div>
+</div>
+`;
+
+exports[`Tabs Snapshots renders with a pointing menu 1`] = `
+<div>
+  <div
+    className="ui menu tabular pointing top attached">
+    <a
+      className="item active"
+      onClick={[Function]} />
+    <a
+      className="item"
+      onClick={[Function]} />
+  </div>
+  <div
+    className="ui bottom attached tab segment active"
+    style={undefined}>
+    First
+  </div>
+  <div
+    className="ui bottom attached tab segment"
+    style={undefined}>
+    Second
+  </div>
+</div>
+`;
+
+exports[`Tabs Snapshots renders with multiple tabs 1`] = `
+<div>
+  <div
+    className="ui menu tabular top attached">
+    <a
+      className="item active"
+      onClick={[Function]} />
+    <a
+      className="item"
+      onClick={[Function]} />
+  </div>
+  <div
+    className="ui bottom attached tab segment active"
+    style={undefined}>
+    First
+  </div>
+  <div
+    className="ui bottom attached tab segment"
+    style={undefined}>
+    Second
+  </div>
+</div>
+`;

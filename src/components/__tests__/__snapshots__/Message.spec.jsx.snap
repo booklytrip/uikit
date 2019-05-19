@@ -1,0 +1,64 @@
+exports[`Message Snapshots renders of basic type 1`] = `
+<div
+  className="ui message"
+  style={
+    Object {
+      "backgroundColor": "transparent",
+      "boxShadow": "none",
+    }
+  }>
+  Message
+</div>
+`;
+
+exports[`Message Snapshots renders of error type 1`] = `
+<div
+  className="ui message error"
+  style={Object {}}>
+  Message
+</div>
+`;
+
+exports[`Message Snapshots renders of info type 1`] = `
+<div
+  className="ui message info"
+  style={Object {}}>
+  Message
+</div>
+`;
+
+exports[`Message Snapshots renders of warning type 1`] = `
+<div
+  className="ui message warning"
+  style={Object {}}>
+  Message
+</div>
+`;
+
+exports[`Message Snapshots renders with custom color 1`] = `
+<div
+  className="ui message orange"
+  style={Object {}}>
+  Message
+</div>
+`;
+
+exports[`Message Snapshots renders with custom size 1`] = `
+<div
+  className="ui message small"
+  style={Object {}}>
+  Message
+</div>
+`;
+
+exports[`Message Snapshots renders with header 1`] = `
+<div
+  className="ui message"
+  style={Object {}}>
+  <div
+    className="header">
+    Header
+  </div>
+  Message
+</div>
+`;

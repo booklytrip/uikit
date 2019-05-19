@@ -1,0 +1,53 @@
+exports[`Checbox Snapshots renders default checkbox correctly 1`] = `
+<div
+  className="ui checkbox"
+  style={
+    Object {
+      "display": "flex",
+    }
+  }>
+  <input
+    checked={undefined}
+    id="undefined-undefined"
+    name={undefined}
+    onChange={[Function]}
+    type="checkbox"
+    value={undefined} />
+</div>
+`;
+
+exports[`Checbox Snapshots renders radio type checkbox correctly 1`] = `
+<div
+  className="ui checkbox radio"
+  style={
+    Object {
+      "display": "flex",
+    }
+  }>
+  <input
+    checked={undefined}
+    id="undefined-undefined"
+    name={undefined}
+    onChange={[Function]}
+    type="radio"
+    value={undefined} />
+</div>
+`;
+
+exports[`Checbox Snapshots renders toogle checkbox correctly 1`] = `
+<div
+  className="ui checkbox toggle"
+  style={
+    Object {
+      "display": "flex",
+    }
+  }>
+  <input
+    checked={undefined}
+    id="undefined-undefined"
+    name={undefined}
+    onChange={[Function]}
+    type="checkbox"
+    value={undefined} />
+</div>
+`;
